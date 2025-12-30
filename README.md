@@ -9,5 +9,4 @@
 
 رمزگشایی داده :
 
-:
 <td><img src="https://github.com/NIKJOO/Config_Over_SMS/blob/main/2.jpg" /></td>
